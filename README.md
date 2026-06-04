@@ -10,6 +10,10 @@ Web journey
 
 It supported both single and multi-signatory workflows.
 
+Project Length:
+Start Date: 17 Feb 2025 
+End Date: 26 Jan 2026
+
 🎯 **Objectives**
 Eliminate manual paperwork
 Enable secure digital agreement signing
@@ -26,38 +30,29 @@ Reduce onboarding turnaround time
 🧩 **My Role**
 
 Project Manager & Business Analyst
-
-Designed signing workflows and user journeys
+Designed digital signing workflows and user journeys
 Defined multi-signatory logic
 Coordinated backend, mobile, and web teams
+Team management and release plan under agile framework
 Managed testing and production rollout
 
 ⚠️ **Challenges & Solutions**
 
 1. Multi-Signatory Logic
-
 Challenge: Complex signing sequences
-Solution:
+Solution:Designed flexible workflow engine
 
-Designed flexible workflow engine
-2. Deep Link Failures
-
+3. Deep Link Failures
 Challenge: Redirection issues
-Solution:
+Solution: Added fallback web-based signing
 
-Added fallback web-based signing
 3. Back-Office Errors
-
 Challenge: Incorrect document uploads
-Solution:
+Solution:Introduced validation and preview by the 2 levels of control workflows
 
-Introduced validation and preview
-4. Identity Verification
-
+5. Identity Verification
 Challenge: Ensuring correct signer
-Solution:
-
-Enforced UAE PASS authentication
+Solution:Enforced UAE PASS authentication
 
 
 🧠 **Key Skills Demonstrated**
@@ -65,6 +60,7 @@ Workflow Design
 Digital Signing Integration
 Multi-User Process Management
 Cross-Platform Coordination
+Data and Information control
 
 [UAE Pass - Signing Journey (3).pdf](https://github.com/user-attachments/files/26324682/UAE.Pass.-.Signing.Journey.3.pdf)
 [GP-Product Approval Form – UAE PASS Integration (Merchant Agreement Signing – UAE Entity)-280326-153450.pdf](https://github.com/user-attachments/files/26324683/GP-Product.Approval.Form.UAE.PASS.Integration.Merchant.Agreement.Signing.UAE.Entity.-280326-153450.pdf)
